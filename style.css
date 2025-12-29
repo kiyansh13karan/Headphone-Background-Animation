@@ -1,16 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap");
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  margin: 0 ;
+  padding: 0 ;
+  box-sizing: border-box ;
 }
 html {
-  overflow-x: hidden;
+  overflow-x: hidden ;
 }
 img {
-  -webkit-user-select: none;
-  user-select: none;
+  -webkit-user-select: none ;
+  user-select: none ;
 }
 body {
   overflow-x: hidden;
